@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "124725755742",
+    "firebase_url": "https://schoolbus-35641.firebaseio.com",
+    "project_id": "schoolbus-35641",
+    "storage_bucket": "schoolbus-35641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124725755742:android:59fe47f8a151ecb9",
+        "android_client_info": {
+          "package_name": "uber.example.uber.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124725755742-0c3bdu4hpvctd33gnmal84ucod225ui2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uber.example.uber.driver",
+            "certificate_hash": "9a842534e6f5c53638d336198b5d598aa044251e"
+          }
+        },
+        {
+          "client_id": "124725755742-6pumn76hqib1kh7tjfihfetjboa9edaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMkZb5706gk2hJJfWYWQD1mu_eHY28zCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124725755742-6pumn76hqib1kh7tjfihfetjboa9edaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
